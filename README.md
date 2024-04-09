@@ -19,6 +19,6 @@
 ### Se poder, me segue no Linkedin pra me ajudar a conseguir uma oportunidade 🫶!
 
 <div> 
-  <a href="https://www.linkedin.com/in/delcleciano-lins-7a6201259/)" target="_blank">
+  <a href="https://www.linkedin.com/in/delcleciano-lins-de-melo-7a6201259/") target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
